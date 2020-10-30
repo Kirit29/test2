@@ -1,11 +1,11 @@
 {
    "storeContent":[
       {
-         "Download Universal-Updater.3dsx (2 MiB)":[
+         "Download Pokemon Adventure Red's Chapter(2 MiB)":[
             {
-               "file":"https://github.com/Universal-Team/Universal-Updater/releases/download/v2.5.1/Universal-Updater.3dsx",
-               "message":"Downloading Universal-Updater.3dsx...",
-               "output":"%3DSX%/Universal-Updater.3dsx",
+               "file":"https://www.dropbox.com/s/ak9ctjzyqhtsekx/Pokemon%20Adventure%20-%20Red%20Chapter.gba?dl=1",
+               "message":"Downloading Red Chapter...",
+               "output":"sdmc:/gba/Pokemon Adventure - Red Chapter.gba",
                "type":"downloadFile"
             }
          ],
@@ -7557,15 +7557,15 @@
          "3DS",
          "DS"
       ],
-      "description":"Universal-DB - An online database of 3DS and DS homebrew",
-      "file":"universal-db-beta.unistore",
+      "description":"Rom Hack-DB - DB of Triforce Fav Hacks",
+      "file":"data.unistore",
       "outlineDark":"#f00000",
       "outlineLight":"#f00000",
       "revision":87,
       "textDark":"#ffffff",
       "textLight":"#000000",
       "title":"rhdb",
-      "url":"https://db.universal-team.net/unistore/universal-db-beta.unistore",
+      "url":"https://github.com/TriforceOfPwnage/test2/data.unistore",
       "version":3
    }
 }
